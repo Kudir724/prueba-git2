@@ -1,5 +1,5 @@
 # Proyecto muestra git
 
-proyoecto fake
+proyecto fake para probat Git
 
 [aquí](https://koder427.github.io/prueba-git2/)
